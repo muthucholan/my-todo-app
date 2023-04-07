@@ -1,0 +1,7 @@
+started python 15th chapter
+Master python!
+new add button added on gui app
+adding edit button
+checking the working status of edit
+vetri you add some items
+
